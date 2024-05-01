@@ -8,7 +8,7 @@ import pandas as pd
 import time
 import datetime
 
-path = "/Users/john/Desktop/chat.db"
+path = "/Users/liuwenxin/Desktop/chat.db"
 
 
 def populate_frame(file): # IF handle is zero, it is sent from you
